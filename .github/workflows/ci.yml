@@ -8,7 +8,7 @@ on:
         required: true
         default: 'info'
   push:
-    branches: [ main, m2 ]
+    branches: [ main, m3 ]
   pull_request:
     branches: [ main ]
 
